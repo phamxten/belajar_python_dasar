@@ -52,7 +52,7 @@ umur = 19
 print(umur > 17 and umur < 23)
 
 hari = "jumat"
-print(hari == "sabtu" or hari == "jumat")
+print(hari == "sabtu" or hari == "jumat") 
 
 active = True
 print(not active)
