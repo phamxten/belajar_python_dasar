@@ -72,3 +72,4 @@ kalimat = "python adalah bahasa  pemograman tingkat rendah"
 print("python" in kalimat)
 print("java" in kalimat)
 print("python" in kalimat)
+
